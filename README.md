@@ -1,5 +1,5 @@
 # SwimX-Privacy-Policy
-## This repository is for to store and update the users the privacy policy of Swimx (swimx.io)
+## This repository is for to store and update the users the privacy policy of [Swimx](swimx.io)
 
 
 If you are located in the EEA or UK and you believe we are unlawfully processing your personal information, you also have the right to complain to your Member State data protection authority or UK data protection authority.
